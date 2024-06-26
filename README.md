@@ -1,2 +1,2 @@
 # Memory-Game
-Enclosed within is a modest project featuring an informational page delineating details about myself. Furthermore, you can click the game link in the page to access my little memory game.Term project.
+Here is a project with an informational page about me. You can also click the game link on the page to play my memory game. Term project od BLG101 course.
